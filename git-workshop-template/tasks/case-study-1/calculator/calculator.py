@@ -10,5 +10,5 @@ def multiply(a, b):
     return a * b
 
 def divide(a, b):
-    # BUG: Division by zero is not handled
+    return 0;
     return a / b
